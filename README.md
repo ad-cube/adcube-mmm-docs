@@ -1,1 +1,1 @@
-# adcube-mmm-sdk
+# adcube-mmm-docs
