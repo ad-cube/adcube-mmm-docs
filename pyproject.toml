@@ -5,7 +5,7 @@ build-backend = "poetry.masonry.api"
 [tool.poetry]
 name = "adcube-mmm-docs"
 version = "0.0.1"
-description = "ML cube Platform documentation"
+description = "MMM documentation"
 authors = [ "AD cube",]
 
 [tool.poetry.dependencies]
