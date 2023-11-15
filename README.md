@@ -1,9 +1,3 @@
 # Adcube-mmm- client sdk
 
-## Installation
-```bash
-pip install adcube-mmm-sdk
-```
-
-## Usage
-Please refer to the [documentation](https://ad-cube.github.io/adcube-mmm-docs/)
+Documentation repository for the AD Cube MMM. It contains information about the Product in general and the SDK to use it.
