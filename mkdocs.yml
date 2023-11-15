@@ -1,4 +1,4 @@
-site_name: ML cube Platform Documentation
+site_name: Adcube MMM Documentation
 docs_dir: md-docs
 site_dir: docs
 theme:
@@ -101,22 +101,11 @@ extra_javascript:
 
 nav:
   - Home: index.md
-  - User Guide:
-      - user_guide/index.md
-      - user_guide/basic_concepts.md
-      - user_guide/rbac.md
-      - user_guide/glossary.md
-      - user_guide/data_sources.md
-      - user_guide/retrain_triggers.md
-      - user_guide/detection_event_rules.md
-  - API:
-      - api/index.md
-      - Examples: api/examples.md
-      - Python SDK:
-          - api/python/index.md
-          - Client: api/python/client.md
-          - Models: api/python/models.md
-          - Exceptions: api/python/exceptions.md
-          - Enums: api/python/enums.md
-      - REST:
-          - api/rest/index.md
+  - Client:
+      - client.md
+  - Enums:
+      - enums.md
+  - Exceptions:
+      - exceptions.md
+  - Models:
+      - models.md
